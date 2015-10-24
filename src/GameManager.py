@@ -14,7 +14,7 @@ total_frames = 0
 
 GameRunning = True
 
-pygame.display.set_caption("Space-Invaders")
+pygame.display.set_caption("MAE Game Testing")
 # GAME LOOP
 while True:
 	# PROCESSES
